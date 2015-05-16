@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aprenent vocabulari</string>
+    <string name="menu_ajuda">Ajuda</string>
+    <string name="menu_about">Sobre nosaltres</string>
+    <string name="menu_highscores">Millors puntuacions</string>
+    <string name="menu_addidioma">Afegir idioma</string>
+    <string name="menu_tipuspartida">Triar el tipus de partida</string>
+    <string name="menu_database">Database</string>
+    <string name="menu_1min">Partida en un minut</string>
+    <string name="menu_10words">Partida a 10 paraules</string>
+    <string name="menu_5words">Partida a 5 paraules</string>
+    <string name="menu_language">Seleccionar idiomes per la partida</string>
+    <string name="menu_addparaula">Afegir paraula</string>
+    <string name="menu_addinformacio">Gestionar informació</string>
+    <string name="menu_consultatraduccions">Consultar traduccions</string>
+</resources>

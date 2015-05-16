@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.david.aprendiendoidiomas" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HelpActivity"
+            android:label="@string/menu_ajuda" >
+        </activity>
+        <activity
+            android:name=".AboutActivity"
+            android:label="@string/menu_about" >
+        </activity>
+        <activity
+            android:name=".AddWordsActivity"
+            android:label="@string/menu_addparaula" >
+        </activity>
+        <activity
+            android:name=".KindOfGameActivity"
+            android:label="@string/menu_tipuspartida" >
+        </activity>
+        <activity
+            android:name=".HighScoresActivity"
+            android:label="@string/menu_highscores" >
+        </activity>
+        <activity
+            android:name=".Game10WordsActivity"
+            android:label="@string/menu_10words" >
+        </activity>
+        <activity
+            android:name=".Game5WordsActivity"
+            android:label="@string/menu_5words" >
+        </activity>
+        <activity
+            android:name=".Game1MinActivity"
+            android:label="@string/menu_1min" >
+        </activity>
+        <activity
+            android:name=".Languages1MinActivity"
+            android:label="@string/menu_language" >
+        </activity>
+        <activity
+            android:name=".Languages10WordsActivity"
+            android:label="@string/menu_language" >
+        </activity>
+        <activity
+            android:name=".Languages5WordsActivity"
+            android:label="@string/menu_language" >
+        </activity>
+        <activity
+            android:name=".AddLanguagesActivity"
+            android:label="@string/menu_addidioma" >
+        </activity>
+        <activity
+            android:name=".AddInformationActivity"
+            android:label="@string/menu_addinformacio" >
+        </activity>
+        <activity
+            android:name=".ConsultaTraduccionsActivity"
+            android:label="@string/menu_consultatraduccions" >
+        </activity>
+    </application>
+
+</manifest>
