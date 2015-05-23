@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="     Assignatura: IDI"
+        android:text="     Assignatura: SLDS"
         android:id="@+id/textView16" />
 
     <FrameLayout
@@ -35,7 +35,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="     Autor: David Delgado"
+        android:text="     David Delgado i Nuria Bertrán"
         android:id="@+id/textView18" />
 
     <FrameLayout
